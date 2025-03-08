@@ -5,3 +5,5 @@ This project's purpose was to plan, design, and develop a MOCK E-commerce websit
 Below is a sample of the Home Page:
 
 ![front_page](https://github.com/user-attachments/assets/2e8b3674-30f9-475e-a54f-052bd5e7b54a)
+
+[a relative link](ezpc)
