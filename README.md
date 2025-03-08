@@ -6,4 +6,4 @@ Below is a sample of the Home Page:
 
 ![front_page](https://github.com/user-attachments/assets/2e8b3674-30f9-475e-a54f-052bd5e7b54a)
 
-[a relative link](ezpc)
+[Full Walkthrough here](ezpc_site_preview.MKV)
