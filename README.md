@@ -6,6 +6,6 @@ This project's purpose was to plan, design, and develop a static E-commerce webs
 
 [Full Report](EZPC_Solutions_Business_Plan.pdf)
 
-Below is a sample of the Home Page:
+Below is a sample of the HomePage:
 
 ![front_page](https://github.com/user-attachments/assets/2e8b3674-30f9-475e-a54f-052bd5e7b54a)
